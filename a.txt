@@ -1,2 +1,1 @@
-new a
-another a
+edited a
